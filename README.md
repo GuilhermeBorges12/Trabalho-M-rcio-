@@ -1,6 +1,6 @@
-# 🖥️ Primeiro Site - Projeto React
+# 🖥️ Primeiro Site - Projeto React - Desenvolvimento WEB I 
 
-Este é um projeto simples desenvolvido com **React**, com o objetivo de aplicar os conhecimentos iniciais na criação de interfaces web modernas e responsivas.
+Este é um projeto simples desenvolvido com **React**, com o objetivo de aplicar os conhecimentos iniciais na criação de interfaces web modernas e responsivas, proposto pelo Professor Márcio. 
 
 ## 🚀 Funcionalidades
 
